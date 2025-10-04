@@ -7,3 +7,4 @@ pytube==11.0.1
 TgCrypto==1.2.2
 youtube-search-python==1.4.6
 yt-dlp==2022.2.4
+async_lru>=2.0.4
